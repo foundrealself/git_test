@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("hello master");
         System.out.println("hello hot-fox ");
         System.out.println("hello push git ");
+        System.out.println("hello push  sshhh git ");
     }
 }
